@@ -1,5 +1,6 @@
 month = int(input("Month:"))
 
+
 def season(month):
     if month == 1 or month == 2 or month == 12:
         print("Winter")
